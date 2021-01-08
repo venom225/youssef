@@ -1,2 +1,0 @@
-import pm_help
-import pm_settings
